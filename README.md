@@ -1,0 +1,2 @@
+# ScalaPractice
+Scala Training Examples
